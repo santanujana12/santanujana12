@@ -10,8 +10,6 @@ Here are some of the technologies and tools I am proficient in:
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat&logo=css3)
 ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb)
-![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-000?style=flat&logo=amazon-aws)
 
 ## 🌱 I’m currently learning
@@ -22,9 +20,8 @@ I believe in continuous learning and staying updated with the latest trends. Cur
 
 Here are some projects that I'm proud of:
 
-1. [Project 1](link-to-project-1) - Brief description or tagline.
-2. [Project 2](link-to-project-2) - Brief description or tagline.
-3. [Project 3](link-to-project-3) - Brief description or tagline.
+1. [To-Do App]([link-to-project-1](https://github.com/santanujana12/ReactTo-Do/tree/master)) - A To-Do app made purely on React JS.
+2. [Food Order Website]([link-to-project-2](https://github.com/santanujana12/FoodOrderWebsite)) - A food order website made using live data of Swiggy.
 
 Feel free to explore more on my [GitHub Repositories](https://github.com/santanujana12)!
 
