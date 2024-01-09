@@ -20,8 +20,8 @@ I believe in continuous learning and staying updated with the latest trends. Cur
 
 Here are some projects that I'm proud of:
 
-1. [To-Do App]([link-to-project-1](https://github.com/santanujana12/ReactTo-Do/tree/master)) - A To-Do app made purely on React JS.
-2. [Food Order Website]([link-to-project-2](https://github.com/santanujana12/FoodOrderWebsite)) - A food order website made using live data of Swiggy.
+1. [To-Do App](https://github.com/santanujana12/ReactTo-Do/tree/master) - A To-Do app made purely on React JS.
+2. [Food Order Website](https://github.com/santanujana12/FoodOrderWebsite) - A food order website made using live data of Swiggy.
 
 Feel free to explore more on my [GitHub Repositories](https://github.com/santanujana12)!
 
