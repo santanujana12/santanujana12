@@ -15,18 +15,6 @@ I'm Santanu Jana, a passionate front-end engineer with a keen interest in creati
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=santanujana12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=santanujana12&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=santanujana12&icon=0&color=11)](https://visitcount.itsvg.in)
-
 ## 🌱 I’m currently learning
 
 I believe in continuous learning and staying updated with the latest trends. Currently, I am focused on enhancing my skills to become a full-stack engineer.
@@ -52,6 +40,18 @@ I have 2 years of experience as a Frontend Engineer in Accenture Solutions Priva
 ## 📫 Let's Connect
 
 Feel free to reach out to me through my [LinkedIn](https://www.linkedin.com/in/santanu-jana-366535166/) or [Facebook](https://www.facebook.com/santanu.jana.313) to discuss collaboration, job opportunities, or just to say hi! I'm always open to connecting with like-minded individuals.
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=santanujana12&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=santanujana12&icon=0&color=11)](https://visitcount.itsvg.in)
 
 Thanks for stopping by! 😊
 
