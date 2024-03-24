@@ -27,4 +27,32 @@ I'm Santanu Jana, a passionate front-end engineer with a keen interest in creati
 ---
 [![](https://visitcount.itsvg.in/api?id=santanujana12&icon=0&color=11)](https://visitcount.itsvg.in)
 
+## 🌱 I’m currently learning
+
+I believe in continuous learning and staying updated with the latest trends. Currently, I am focused on enhancing my skills to become a full-stack engineer.
+
+## 🔧 Projects
+
+Here are some projects that I'm proud of:
+
+1. [To-Do App](https://github.com/santanujana12/ReactTo-Do/tree/master) - A To-Do app made purely on React JS.
+2. [Food Order Website](https://github.com/santanujana12/FoodOrderWebsite) - A food order website made using the live data of Swiggy.
+
+Feel free to explore more on my [GitHub Repositories](https://github.com/santanujana12)!
+
+## 🎓 Education
+
+- **B.Tech in Electronics and Instrumentation Engineering** - Netaji Subhash Engineering College, 2020
+- **Data Structures and Algorithms** - Coding Ninjas, 2020
+
+## 👨‍💻 Professional Background
+
+I have 2 years of experience as a Frontend Engineer in Accenture Solutions Private Limited. During this time I am working mainly on React JS, React Native, a little bit of Python Flask, and Java Spring Boot.
+
+## 📫 Let's Connect
+
+Feel free to reach out to me through my [LinkedIn](https://www.linkedin.com/in/santanu-jana-366535166/) or [Facebook](https://www.facebook.com/santanu.jana.313) to discuss collaboration, job opportunities, or just to say hi! I'm always open to connecting with like-minded individuals.
+
+Thanks for stopping by! 😊
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
