@@ -24,7 +24,7 @@ I believe in continuous learning and staying updated with the latest trends. Cur
 Here are some projects that I'm proud of:
 
 1. [To-Do App](https://github.com/santanujana12/ReactTo-Do/tree/master) - A To-Do app made purely on React JS.
-2. [Food Order Website](https://github.com/santanujana12/FoodOrderWebsite) - A food order website made using the live data of Swiggy.
+2. [Netflix GPT](https://github.com/santanujana12/netflix-gpt) - A Netflix Clone with integrated ChatGPT for movie suggestions.
 
 Feel free to explore more on my [GitHub Repositories](https://github.com/santanujana12)!
 
