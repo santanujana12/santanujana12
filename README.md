@@ -35,7 +35,7 @@ Feel free to explore more on my [GitHub Repositories](https://github.com/santanu
 
 ## 👨‍💻 Professional Background
 
-I have 2 years of experience as a Frontend Engineer in Accenture Solutions Private Limited. During this time I am working mainly on React JS, React Native, a little bit of Python Flask, and Java Spring Boot.
+I have 4+ years of experience as a Frontend Engineer, currently working at Infosys Limited, previously at Accenture. During this time, I am working mainly on React JS, React Native, a little bit of Python Flask, and Java Spring Boot.
 
 ## 📫 Let's Connect
 
