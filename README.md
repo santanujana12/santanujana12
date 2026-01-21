@@ -128,7 +128,6 @@ I'm **Santanu Jana**, a **Senior Frontend Engineer (SDE2)** with 4+ years of exp
 ## 🎓 Education
 - **B.Tech in Electronics & Instrumentation Engineering** - Netaji Subhash Engineering College (2016-2020) | GPA: 7.36/10
 - **Data Structures and Algorithms** - Coding Ninjas (2020)
-- **AWS Certified Cloud Practitioner** - Amazon Web Services (2024)
 
 ## 📝 Technical Writing
 I regularly write about:
@@ -156,7 +155,7 @@ I'm always open to discussing:
 - Frontend architecture and system design
 - Performance optimization challenges
 - Mentorship opportunities
-- Job openings at Microsoft/Walmart/Amazon/Google
+- Job openings at Microsoft/Walmart/Amazon/Google and similar product-based companies along with mid ranged service companies as well.
 
 **Thanks for visiting my profile! ⭐** 
 
