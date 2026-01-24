@@ -16,7 +16,7 @@ I'm **Santanu Jana**, a **Senior Frontend Engineer (SDE2)** with 4+ years of exp
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Santanu_Jana-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/santanu-jana-366535166) 
 [![Email](https://img.shields.io/badge/Email-santanu.jana@aol.com-D14836?logo=gmail&logoColor=white)](mailto:santanu.jana@aol.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-4285F4?logo=googlechrome&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/my-portfolio-4285F4?logo=googlechrome&logoColor=white)](https://santanujana12.github.io/my-portfolio)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/santanujana/)
 
 # 💻 Tech Stack (Organized by Capability):
