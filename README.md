@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm **Santanu Jana**, a **Senior Frontend Engineer (SDE2)** with 4+ years of experience building performant, scalable web applications. I specialize in **React, System Design, and Performance Optimization**, with a proven track record of architecting systems that handle 10K+ concurrent users while maintaining Lighthouse scores of 90+.
+I'm **Santanu Jana**, a **Senior Frontend Engineer (SDE2)** with 5+ years of experience building performant, scalable web applications. I specialize in **React, System Design, and Performance Optimization**, with a proven track record of architecting systems that handle 10K+ concurrent users while maintaining Lighthouse scores of 90+.
 
 🔭 **Currently seeking:** SDE2 Frontend Engineer roles at **Microsoft, Walmart, Amazon, Google**, and similar product-based organizations
 
